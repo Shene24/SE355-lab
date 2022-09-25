@@ -3,6 +3,7 @@ import java.net.*;
 import java.util.Scanner;
 //import java.util.concurrent.locks.ReadWriteLock;
 public class client {
+    //TODO: ADD MORE FEATURES
 
     public static void main(String[] args) {
         final BufferedReader in;
