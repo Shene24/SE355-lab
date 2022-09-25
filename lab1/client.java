@@ -4,6 +4,7 @@ import java.util.Scanner;
 //import java.util.concurrent.locks.ReadWriteLock;
 public class client {
     //TODO: ADD MORE FEATURES
+    //TODO: ADD MORE SECTIONS
 
     public static void main(String[] args) {
         final BufferedReader in;
